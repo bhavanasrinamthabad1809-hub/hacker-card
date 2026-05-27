@@ -12,53 +12,155 @@ the risks I'm taking, and the person I'm becoming.
 
 ---
 
-## My Journey — From Zero to PCB 🚀
+## The Journey — Every Step, Every Mistake 🚀
 
-When I started this, I had **zero idea** how any of this works.
-No EasyEDA. No PCB layers. No Gerber files. Nothing.
+### Step 1 — Where It All Began (And Where The Mistakes Did Too)
 
-I figured it out — one painful, confusing step at a time.
+![PCB Layout 1](pcb-layout-1.png)
+
+This is where it started. You can see the red lines — errors everywhere.
+But here's what I learned: **everything starts with a mistake.**
+You make a ton of them in the beginning, and then at some point,
+something shifts. It starts feeling like *"yeah, this is where it's going."*
+You have to be okay with mistakes at the start in order to move forward.
 
 ---
 
-## The Real Struggles (because it wasn't easy) 😅
+### Step 2 — The 0 vs O Moment 🤦
 
-Let me be honest — this was **hard**. Like, really hard.
+![PCB Layout 2](pcb-layout-2.png)
 
-- 🔄 **Redrew my doodles 4 times** — kept messing up, kept starting over
-- 💀 **Lost my work once** because I forgot to save — watched it all disappear
-- ✨ **Wanted a gold shiny layer (ENIG finish)** — spent so long trying to figure it out, couldn't fully get it the way I imagined
-- 🤯 **The layers broke my brain** — Top layer, Bottom layer, Bottom Silk layer... 
-  at the start I had absolutely no idea what any of it meant or which one to use
-- 🔧 **Figured it all out alone** — no one sitting next to me explaining things,
-  just me, YouTube, and a lot of confusion
+This one broke my brain a little.
+While choosing components, I was writing **0 (zero) as O (the letter).**
+It took me **two whole hours** to figure out what was going wrong.
+Two hours. For one character. I couldn't believe it.
+But honestly? That's how learning works sometimes.
 
-But here's the thing — **I figured it out anyway.**
+---
 
-Every confused moment eventually became a moment of "oh wait, I actually get this now."
-And that feeling is unbeatable.
+### Step 3 — The Moment Everything Made Sense ✨
+
+![PCB Layout 3](pcb-layout-3.png)
+
+This is the turning point.
+All the components finally fell into place.
+My mistakes, my faults, all the confusion —
+suddenly it all made sense here.
+This is where it started feeling good.
+
+---
+
+### Step 4 — Schematic to PCB, Pure Happiness 😄
+
+![PCB Layout 4](pcb-layout-4.png)
+
+This is where I converted all the components into the actual PCB layout.
+I remember being genuinely happy at this stage.
+Like, *"wait, this is actually working?"* Yes. Yes it was.
+
+---
+
+### Step 5 — Welcome to the PCB World (Hello Confusing Blue Lines)
+
+![PCB Layout 5](pcb-layout-5.png)
+
+We are officially in PCB layout territory now.
+Copper lines, blue lines, yellow lines — it's all here.
+But those **blue lines?** I cannot even explain how confused they made me.
+So. Much. Confusion.
+
+---
+
+### Step 6 — The Layer War 😤
+
+![PCB Layout 6](pcb-layout-6.png)
+
+This is where the real chaos began — top layer, bottom layer,
+top silk layer, bottom silk layer.
+
+I saw yellow text and thought it was on the bottom silk layer. It wasn't.
+So I moved everything to the bottom silk layer thinking it would fix it. It didn't.
+Then I changed everything to blue thinking the bottom layer was the problem. It wasn't.
+
+I went back and forth so many times.
+Eventually I figured it out — but this stage tested my patience like nothing else.
+
+---
+
+### Step 7 — The 3D View 🤩 (Front Side)
+
+![PCB Layout 9](pcb-layout-9.png)
+
+This is the **3D view of the front side** of my PCB.
+Seeing it in 3D for the first time after all that struggle?
+Unreal feeling.
+
+---
+
+### Step 8 — The Back Side — My Manifestations 🌟
+
+![PCB Layout 10](pcb-layout-10.png)
+
+This is the **back side** of the card — and this is where it gets personal.
+
+I wrote down my goals. My dreams. The things I'm working towards
+during this gap year that most people don't understand:
+
+- 100k on Instagram and YouTube
+- Financial independence
+- Shooting a Silver Play Button
+- Coding
+- Video editing
+- AI
+- Filming
+- Becoming a graphic designer again
+- Re-entering college
+- Learning guitar 🎸 (a dream I'm holding onto)
+
+This side of the card is my manifestation board. In PCB form.
+
+---
+
+### Final — The Complete 2D View ✅
+
+![PCB Layout 11](pcb-layout-11.png)
+
+This is the final 2D view of the completed design.
+Every layer in place. Every component where it belongs.
+Every mistake that led here — worth it.
+
+*"this gap year is one of the beautiful year of my life"*
+*"if i want it i get it"*
+
+---
+
+## The Real Struggles 😅
+
+- 🔄 Redrew my doodles **4 times** — kept messing up, kept starting over
+- 💀 Lost my work once because I forgot to save
+- ✨ Wanted a gold shiny ENIG finish — spent hours trying to get it right
+- 🤯 The layers absolutely broke my brain at the start
+- 🔧 Figured it all out alone — just me, YouTube, and sheer stubbornness
 
 ---
 
 ## How Hack Club Helped 💙
 
-I did this as part of **Fallout by Hack Club**, and honestly —
-the community helped me a lot when I was stuck.
-Having people around who are building the same kind of stuff,
-even online, makes a huge difference when you're learning alone.
+I did this as part of **Fallout by Hack Club**, and the community
+helped me a lot when I was stuck. Having people around who are building
+the same kind of stuff — even online — makes a huge difference
+when you're learning completely alone.
 
 ---
 
 ## What Changed in Me 🌱
 
-This project isn't just a PCB. It's proof to myself that I can pick up something
-completely new, struggle through it, and come out the other side with something real.
-
-I'm on a gap year. A lot of people don't get it. But I do.
-And this card is a physical manifestation of exactly that energy.
+This project isn't just a PCB.
+It's proof to myself that I can pick up something completely new,
+struggle through it, and come out the other side with something real.
 
 From someone who didn't even know what a PCB layer was —
-to someone who has designed one, from scratch, alone.
+to someone who designed one, from scratch, alone, in 10 hours.
 
 That's the real win. 🙌
 
@@ -66,10 +168,6 @@ That's the real win. 🙌
 
 ## Tools Used
 - **EasyEDA** — Schematic & PCB Layout Design
-
-## Files in this Repo
-- PCB Layout
-- Gerber Files (manufacturing-ready)
 
 ## Program
 Made as part of **Fallout** by [Hack Club](https://hackclub.com)
