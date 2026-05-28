@@ -143,6 +143,7 @@ Every mistake that led here — worth it.
 - 🔧 Figured it all out alone — just me, YouTube, and sheer stubbornness
 - 
   ###how to use
+  
 Just tap it with any NFC-enabled phone — it instantly opens my Instagram. No app needed, no typing, just tap and connect.
 But honestly this card is more than just a business card. I'm going to carry it everywhere — every hackathon I attend, every person I meet, every moment I want to share what I'm building. It fits right in my pocket.
 And on the back? Those aren't just doodles. Those are my goals — 100k on Instagram and YouTube, financial independence, coding, guitar, graphic design, getting that spark back. I see them every single day and they keep me going.
