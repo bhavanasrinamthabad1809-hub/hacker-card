@@ -25,19 +25,19 @@ i designed this in EasyEDA — it's free and works in the browser. here's what i
 
 ## images
 
-![components](pcb-layout-1.png)
+![components](pcb/pcb-layout-1.png)
 *all the components i used*
 
-![adding doodles](pcb-layout-2.png)
+![adding doodles](pcb/pcb-layout-2.png)
 *adding my doodles into the PCB*
 
-![front 3D view](pcb-layout-3.png)
-*front side — NFC antenna, LED, resistor,instaqrcode,email,one quote
+![front 3D view](pcb/pcb-layout-3.png)
+*front side — NFC antenna, LED, resistor, instagram QR code, email, one quote*
 
-![back 3D view](pcb-layout-4.png)
+![back 3D view](pcb/pcb-layout-4.png)
 *back side — my manifestations etched in copper*
 
-![2D layout](pcb-layout-5.png)
+![2D layout](pcb/pcb-layout-5.png)
 *complete 2D view of the full card*
 
 ## zine page
