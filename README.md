@@ -32,7 +32,7 @@ i designed this in EasyEDA — it's free and works in the browser. here's what i
 *adding my doodles into the PCB*
 
 ![front 3D view](pcb-layout-3.png)
-*front side — NFC antenna, LED, resistor*
+*front side — NFC antenna, LED, resistor,instaqrcode,email,one quote
 
 ![back 3D view](pcb-layout-4.png)
 *back side — my manifestations etched in copper*
